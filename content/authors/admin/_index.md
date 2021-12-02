@@ -1,6 +1,7 @@
 ---
 title: Feng An
-role: Post of Artificial Intelligence
+role: Postdoc of management science and engineering
+avatar_filename: 2491622967661_.pic.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
