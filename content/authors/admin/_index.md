@@ -14,7 +14,7 @@ social:
     link: "mailto: af15910602135@126.com"
   - icon: researchgate
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.researchgate.net/profile/Feng-An-5
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
