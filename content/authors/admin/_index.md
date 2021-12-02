@@ -1,9 +1,9 @@
 ---
 title: Feng An
-role: Postdoc of management science and engineering
+role: Postdoctoral researcher of management science and engineering
 avatar_filename: 2491622967661_.pic.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include complex system, complex network modeling,
+  high-dimentional network modeling, social and economic network analysis.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
