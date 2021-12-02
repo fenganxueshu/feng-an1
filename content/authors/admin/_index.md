@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: af15910602135@126.com
+    link: "mailto: af15910602135@126.com"
   - icon: researchgate
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
