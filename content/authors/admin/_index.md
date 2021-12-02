@@ -12,7 +12,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: af15910602135@126.com
-  - icon: twitter
+  - icon: researchgate
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
