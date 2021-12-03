@@ -1,7 +1,7 @@
 ---
 title: Modeling the interdependent network based on two-mode networks
 publication_types:
-  - "0"
+  - "2"
 authors:
   - An
   - F.
