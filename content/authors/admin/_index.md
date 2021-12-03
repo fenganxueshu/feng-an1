@@ -5,9 +5,11 @@ avatar_filename: assets/media/2491622967661_.pic.jpg
 bio: My research interests include complex system, complex network modeling,
   high-dimensional network modeling, social and economic network analysis.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Complex system
+  - Network science
+  - Econometrics
+  - Cascading failure model
+  - High-dimentional network modeling
 social:
   - icon: envelope
     icon_pack: fas
