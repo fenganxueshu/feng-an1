@@ -1,9 +1,9 @@
 ---
 title: Feng An
 role: Postdoctoral researcher of management science and engineering
-avatar_filename: ""
+avatar_filename: null
 bio: My research interests include complex system, complex network modeling,
-  high-dimentional network modeling, social and economic network analysis.
+  high-dimensional network modeling, social and economic network analysis.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -29,22 +29,19 @@ organizations:
     url: https://www.ustb.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Postdoctoral researcher
+      institution: University of Science and Technology Beijing
+      year: ""
+    - course: Ph. D.
+      institution: China University of Geoscience, Beijing
+    - course: B. S.
+      institution: University of Science and Technology Beijing
 email: ""
 superuser: true
 highlight_name: true
 ---
+Feng An is a postdoctoral researcher of management science and engineering at the University of Science and Technology Beijing. His research interests include complex system, network science, econometrics, cascading failure model and high-dimentional network modeling. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
