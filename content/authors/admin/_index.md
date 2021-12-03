@@ -1,7 +1,7 @@
 ---
 title: Feng An
 role: Postdoctoral researcher of management science and engineering
-avatar_filename: assets/media/2491622967661_.pic.jpg
+avatar_filename: 2491622967661_.pic.jpg
 bio: My research interests include complex system, complex network modeling,
   high-dimensional network modeling, social and economic network analysis.
 interests:
